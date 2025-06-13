@@ -1,0 +1,19 @@
+==================================
+DATA DIRI STUDENT
+==================================
+
+NABILAH PUTRI SAWINDRA
+nsawindra@gmail.com
+ID FC704D5X0652
+
+==================================
+INFORMASI API KEY
+==================================
+
+Untuk proyek ini, API Key untuk layanan peta (map service) TIDAK DIPERLUKAN.
+
+Alasan:
+Aplikasi ini menggunakan tile layer dari OpenStreetMap dan Google (via Leaflet.js) yang pada implementasi ini bersifat publik dan tidak memerlukan kunci API.
+
+Jika di masa mendatang proyek ini dikembangkan untuk menggunakan layanan peta komersial seperti MapTiler atau Google Maps Platform API, maka API Key akan ditempatkan di sini.
+

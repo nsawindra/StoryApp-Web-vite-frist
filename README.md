@@ -1,6 +1,6 @@
 # 🌍 StoryVerse - Aplikasi Berbagi Cerita Lokasi by Nabilah Putri Sawindra
 
-StoryVerse adalah aplikasi "Single Page Application (SPA)" yang dikembangkan sebagai "Proyek Akhir" untuk kelas _Belajar Fundamental Front-End Web Development_ dari Dicoding. Aplikasi ini memungkinkan pengguna untuk "berbagi cerita singkat" lengkap dengan "gambar dan lokasi geografis" layaknya media sosial berbasis lokasi.
+StoryVerse adalah aplikasi "Single Page Application (SPA)" yang dikembangkan sebagai "Proyek Akhir" untuk kelas _Belajar Pengembangan Web Intermediate_ dari Dicoding. Aplikasi ini memungkinkan pengguna untuk "berbagi cerita singkat" lengkap dengan "gambar dan lokasi geografis" layaknya media sosial berbasis lokasi.
 
 ---
 
